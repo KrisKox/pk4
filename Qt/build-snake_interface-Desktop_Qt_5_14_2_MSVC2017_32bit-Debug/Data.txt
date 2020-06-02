@@ -1,0 +1,12 @@
+Gracz1
+200
+Gracz5
+120
+Gracz2
+100
+Gracz3
+70
+Gracz4
+50
+siema
+0

@@ -1,0 +1,12 @@
+gracz2
+190
+gracz1
+150
+to ja
+80
+ziom
+60
+to
+30
+papiez2
+0
